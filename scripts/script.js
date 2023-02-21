@@ -64,16 +64,16 @@ function reverseName(name) {
 function chooseAnimal(name) {
 
 
-  if(name < 4)
+  if(name.length < 4)
   {
   
       return "Your animal is Leo The Lion" 
   }
-  else if(name > 4)
+  else if(name.length > 4)
   {
       return "Your animal is Luna The Lion"
   }
-  else if(name = 4)
+  else if(name.length = 4)
   {
       return "Your animal is Luna The Lion"
   }
