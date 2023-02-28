@@ -50,7 +50,7 @@ function marryJohn(name) {
   
   // let lastIndex = name.length - 1
 
-  return "If you married John Brake, your name would become " + name + " Brake"
+  return "If you married John Brake, your name would become " + name + " Brake. Emma Mcanally will HATE you for this tho."
 }
 
 function reverseName(name) {
